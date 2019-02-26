@@ -23,7 +23,10 @@ limitations under the License.
 <amp-embed width="200" height="200"
     type="jubna"
     layout="responsive"
+<<<<<<< HEAD
     heights="(min-width:1907px) 39%, (min-width:1200px) 46%, (min-width:780px) 64%, (min-width:480px) 98%, (min-width:460px) 167%, 196%"
+=======
+>>>>>>> 1dfd58779cc17a683fa3ddeb58aef11c50fb04f2
     data-wid="WIDGET_ID"
     data-pid="PUBLISHER_ID">
 </amp-embed>
